@@ -16,8 +16,8 @@
 	<preference name="phonegap-version" value="3.1.0" />
 	
 	<author href="https://build.phonegap.com" email="support@phonegap.com">
-		    Gustavo Roman Hernandez
-			<</author>
+	    Gustavo Roman Hernandez
+	</author>
 	
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
         <gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
@@ -27,4 +27,4 @@
     <!--Colocar icono app -->
 	
 <icon src="res/android/mdpi.png" />
-</widget>			
+</widget>							
